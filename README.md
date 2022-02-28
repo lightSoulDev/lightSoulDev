@@ -66,6 +66,8 @@
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img alt="C# .Net" src="https://img.shields.io/badge/-C%23_%2ENet-555?style=for-the-badge&logo=microsoft&logoColor=6264A7" /></a>
     <a href="https://docs.unity.com"><img alt="Unity" src="https://img.shields.io/badge/-Unity-555?style=for-the-badge&logo=unity&logoColor=2088FF" /> </a>
     <a href="https://www.lua.org/docs.html"><img alt="Lua" src="https://img.shields.io/badge/-Lua-555?style=for-the-badge&logo=lua&logoColor=2088FF" /></a>
+    <a href="https://www.arduino.cc"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-555?style=for-the-badge&logo=arduino&logoColor=00979D" /></a>
+    <a href="https://en.cppreference.com/w/"><img alt="C/C++" src="https://img.shields.io/badge/-C%2FC%2B%2B-555?style=for-the-badge&logo=arduino&logoColor=A8B9CC" /></a>
     <a href="https://www.php.net"><img alt="Php" src="https://img.shields.io/badge/-PHP-555?style=for-the-badge&logo=php&logoColor=777BB4" /></a>
 </p>
 </div>
