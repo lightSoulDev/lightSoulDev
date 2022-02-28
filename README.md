@@ -20,7 +20,7 @@
     <img alt="link to my Telegram" src="https://img.shields.io/static/v1?label&message=@justpd_cg&color=555&style=for-the-badge&logo=telegram&logoColor=26A5E4" />
 </a>
 <a href="https://www.instagram.com/noorik_prajapati/">
-    <img alt="link to my Instagram" src="https://img.shields.io/static/v1?label&message=@noorik_prajapati&color=555&style=for-the-badge&logo=instagram&logoColor=E4405F" />
+    <img alt="link to my Instagram" src="https://img.shields.io/static/v1?label&message=@noorik_prajapati&color=555&style=for-the-badge&logo=instagram&logoColor=DC6782" />
 </a>
 <a href="mailto:lightsoul_dev@mail.ru">
     <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=lightsoul_dev@mail.ru&style=for-the-badge&logo=mail.ru&color=555&logoColor=005ff9" />
@@ -37,7 +37,7 @@
 <h2><b>Tools I work with right now</b></h2>
 <p>
     <a href="https://www.typescriptlang.org/docs/"><img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-555?style=for-the-badge&logo=typescript&logoColor=3178C6" /></a>
-    <a href="https://pixijs.io/guides/"><img alt="Pixi.js" src="https://img.shields.io/badge/-Pixi.js-555?style=for-the-badge&logo=javascript&logoColor=e71c63" /></a>  
+    <a href="https://pixijs.io/guides/"><img alt="Pixi.js" src="https://img.shields.io/badge/-Pixi.js-555?style=for-the-badge&logo=javascript&logoColor=DC6782" /></a>  
     <a href="https://greensock.com/docs/"><img alt="GreenSock" src="https://img.shields.io/badge/-GreenSock-555?style=for-the-badge&logo=javascript&logoColor=green" /></a>   
     <a href="https://webpack.js.org/concepts/"><img alt="Webpack" src="https://img.shields.io/badge/-Webpack-555?style=for-the-badge&logo=webpack&logoColor=#8DD6F9" /></a>     
     <a href="https://reactnative.dev/docs/getting-started"><img alt="React Native" src="https://img.shields.io/badge/-React_Native-555?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
