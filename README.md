@@ -15,7 +15,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20and%20mobile%20developer;3%2B%20years%20of%20commercial%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=480&height=45&color=2088FF&vCenter=true&size=22&bold=true"></a>
 </p>
 <div align="center">
-<h2><b>Contact me</b></h2>
+<h2><b>Get in touch with me</b></h2>
 <a href="https://t.me/justpd_cg">
     <img alt="link to my Telegram" src="https://img.shields.io/static/v1?label&message=@justpd_cg&color=555&style=for-the-badge&logo=telegram&logoColor=26A5E4" />
 </a>
