@@ -1,5 +1,6 @@
-<h1 align="center"><b>Kozhanov Nurzhan</b></h1>
-<h2 align="center">
+<div align="center">
+<h1><b>Kozhanov Nurzhan</b></h1>
+<br>
   <a href="https://www.connectivegames.com"><img alt="Connective Games" src="https://img.shields.io/badge/-Connective_Games-555?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAACWElEQVRIie2Vz2sTURDHvzNv0yRNmja2gShEKYIIlR5z8aAH8eJFUARB1D9BUREPnrwr/geKBxUPgkc96MVDQRGLycVeYosJrUhr82O3u/vGQ340+yNpE1LooXPafe/tfOY7M2+W+MVr7KXxnno/AOwLgBFYIS0EUOhpIg1AJCQsIk2QHQACyhrrl1ILUbZ9Zwko2+n31fmUapxPfk+w1X2gbKc/1k5VnEkOMLwAoVzkz6PsyylVD0bjiPpUm0upRj6+BO+2I+pz/eTt8o1v5ixDd28FxRKkqdWfJYP0uYnFfPwngmGSPpMs3M28i5Pl2/PXQLYfqOKkazrafI2Qe8T4G4ELYMMdX3NTnU+m1WZa1SA4myjOjq0WrRx1iQgWuRW7LepB5eqH6rxBWoAxcp4efnYh9RXA23/5h6tXuJUcvjy58Dj7XJE7TlaSTYhHfCigZWtu6rc9A3IBQGjFPtRcr+rYytYMSABA1NJW1gUruKFO+gEYAkizMYQ8NSFqFUq3K9bbScD6HR/c/IDReg8B9LrDIwQAEBDCxEg7BAmsCwhEO40KIlm2p+9XrkXZdoULZg6kO05fbZz+YeUAWjSPbeNJF83crfJNRdqSyC8748NQ4JdJWjpU7dXB7QQKPPOAOplgcnzSfcMOE9yYiy0b3nmyS3PABTO3qWPdZfQNOz4RLb85+mSKazJgtQmyrhMXS/e+1I8T9R4VDJ1gM8Hm4O0kNhQHpPe5yaO5Ev4uKtmZO+XrUXKG8GWJUdpdFw3/o2bS/boIACBM4XNxSOQIfR0A9ingP0HY5A2FbA2rAAAAAElFTkSuQmCC"/></a>
   <a href="https://play.google.com/store/apps/developer?id=jp_dev">
     <img alt="Google Dev" src="https://img.shields.io/static/v1?label&message=Google%20Play&style=for-the-badge&logo=googleplay&color=555&logoColor=green" />
@@ -10,7 +11,6 @@
   <a href="https://www.youtube.com">
     <img alt="Link to my YouTube" src="https://img.shields.io/youtube/channel/views/UCcAG4EZ50JomfXbFpVa0EGQ?label=%23GameCoding&style=for-the-badge&color=ff4444">
   </a>
-</h2>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20and%20mobile%20developer;3%2B%20years%20of%20commercial%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=480&height=45&color=F05032&vCenter=true&size=22&bold=true"></a>
 </p>
@@ -32,7 +32,6 @@
 
 <!-- [![Nurzhan's github activity graph](https://activity-graph.herokuapp.com/graph?username=lightSoulDev&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lightSoulDev&langs_count=6&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)  -->
-
 
 <h2><b>Tools I work with right now</b></h2>
 <p>
