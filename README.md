@@ -33,7 +33,7 @@
 <!-- [![Nurzhan's github activity graph](https://activity-graph.herokuapp.com/graph?username=lightSoulDev&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lightSoulDev&langs_count=6&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)  -->
 
-<h2><b>Tools I work with right now</b></h2>
+<h2><b>Tools I'm working with right now</b></h2>
 <p>
     <a href="https://www.typescriptlang.org/docs/"><img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-555?style=for-the-badge&logo=typescript&logoColor=007ACC" /></a>
     <a href="https://pixijs.io/guides/"><img alt="Pixi.js" src="https://img.shields.io/badge/-Pixi.js-555?style=for-the-badge&logo=javascript&logoColor=DC6782" /></a>  
