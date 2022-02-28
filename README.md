@@ -40,7 +40,7 @@
     <a href="https://greensock.com/docs/"><img alt="GreenSock" src="https://img.shields.io/badge/-GreenSock-555?style=for-the-badge&logo=javascript&logoColor=green" /></a>   
     <a href="https://webpack.js.org/concepts/"><img alt="Webpack" src="https://img.shields.io/badge/-Webpack-555?style=for-the-badge&logo=webpack&logoColor=#8DD6F9" /></a>     
     <a href="https://reactnative.dev/docs/getting-started"><img alt="React Native" src="https://img.shields.io/badge/-React_Native-555?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
-    <a href="https://redux-toolkit.js.org/introduction/getting-started"><img alt="Redux Toolkit" src="https://img.shields.io/badge/-Redux-555?style=for-the-badge&logo=redux&logoColor=7850A8" /></a> 
+    <a href="https://redux-toolkit.js.org/introduction/getting-started"><img alt="Redux Toolkit" src="https://img.shields.io/badge/-Redux-555?style=for-the-badge&logo=redux&logoColor=2088FF" /></a> 
     <a href="https://developer.android.com/reference/java/io/package-summary?hl=en"><img alt="Java" src="https://img.shields.io/badge/-Java-555?style=for-the-badge&logo=android-studio&logoColor=ff4444" /></a>  
 </p>
 <p>
