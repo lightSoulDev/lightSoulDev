@@ -52,6 +52,14 @@
     <a href="https://www.postgresql.org"><img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-555?style=for-the-badge&logo=postgresql&logoColor=007ACC" /></a>
     <a href="https://www.rabbitmq.com"><img alt="RabbitMq" src="https://img.shields.io/badge/-RabbitMq-555?style=for-the-badge&logo=rabbitmq&logoColor=FF6600" /></a>
 </p>
+  <p>
+    <a href="https://developer.android.com/docs"><img alt="Android Studio" src="https://img.shields.io/badge/-Android-555?style=for-the-badge&logo=android-studio&logoColor=13aa52" /></a>
+    <a href="https://developer.apple.com/documentation/xcode"><img alt="iOS XCode" src="https://img.shields.io/badge/-iOS-555?style=for-the-badge&logo=xcode&logoColor=147EFB" /></a>
+    <a href="https://docs.microsoft.com/en-us/windows/apps/"><img alt="Windows" src="https://img.shields.io/badge/-Windows-555?style=for-the-badge&logo=windows&logoColor=0078D6" /></a>
+    <a href="https://developer.apple.com/macos/"><img alt="Mac OS" src="https://img.shields.io/badge/-MacOS-555?style=for-the-badge&logo=apple&logoColor=111" /></a>
+    <a href="https://ubuntu.com"><img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-555?style=for-the-badge&logo=ubuntu&logoColor=FF6600" /></a>
+</p>
+<h5> Note: I'm an active <b>M1 Macbook</b> user, so feel free to ask for any help with development on Apple silicon</h5>
 <h2><b>Tools I actively worked within past</b></h2>
 <p>
     <a href="https://flutter.dev"><img alt="Flutter" src="https://img.shields.io/badge/-Flutter-555?style=for-the-badge&logo=flutter&logoColor=2088FF" /></a>
@@ -60,13 +68,4 @@
     <a href="https://www.lua.org/docs.html"><img alt="Lua" src="https://img.shields.io/badge/-Lua-555?style=for-the-badge&logo=lua&logoColor=2088FF" /></a>
     <a href="https://www.php.net"><img alt="Php" src="https://img.shields.io/badge/-PHP-555?style=for-the-badge&logo=php&logoColor=777BB4" /></a>
 </p>
-<h2><b>Platforms I work with</b></h2>
-<p>
-    <a href="https://developer.android.com/docs"><img alt="Android Studio" src="https://img.shields.io/badge/-Android-555?style=for-the-badge&logo=android-studio&logoColor=13aa52" /></a>
-    <a href="https://developer.apple.com/documentation/xcode"><img alt="iOS XCode" src="https://img.shields.io/badge/-iOS-555?style=for-the-badge&logo=xcode&logoColor=147EFB" /></a>
-    <a href="https://docs.microsoft.com/en-us/windows/apps/"><img alt="Windows" src="https://img.shields.io/badge/-Windows-555?style=for-the-badge&logo=windows&logoColor=0078D6" /></a>
-    <a href="https://developer.apple.com/macos/"><img alt="Mac OS" src="https://img.shields.io/badge/-MacOS-555?style=for-the-badge&logo=apple&logoColor=111" /></a>
-    <a href="https://ubuntu.com"><img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-555?style=for-the-badge&logo=ubuntu&logoColor=FF6600" /></a>
-</p>
-<h5> Note: I'm an active <b>M1 Macbook</b> user, so feel free to ask for any help with development on Apple silicon</h5>
 </div>
