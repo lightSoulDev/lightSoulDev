@@ -70,5 +70,7 @@
     <a href="https://en.cppreference.com/w/"><img alt="C/C++" src="https://img.shields.io/badge/-C%2FC%2B%2B-555?style=for-the-badge&logo=c&logoColor=A8B9CC" /></a>
     <a href="https://www.php.net"><img alt="Php" src="https://img.shields.io/badge/-PHP-555?style=for-the-badge&logo=php&logoColor=777BB4" /></a>
 </p>
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lightsouldev&layout=compact&exclude_repo=old-unity-rpg&theme=apprentice)](https://github.com/lightsouldev/github-readme-stats)
+  
 </div>
