@@ -12,6 +12,7 @@
     <img alt="Link to my YouTube" src="https://img.shields.io/youtube/channel/views/UCcAG4EZ50JomfXbFpVa0EGQ?label=%23GameCoding&style=for-the-badge&color=ff4444">
   </a>
 <p align="center">
+  <br/>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20and%20mobile%20developer;3%2B%20years%20of%20commercial%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=480&height=45&color=2088FF&vCenter=true&size=22&bold=true"></a>
 </p>
   
