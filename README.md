@@ -14,6 +14,9 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20and%20mobile%20developer;3%2B%20years%20of%20commercial%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=480&height=45&color=2088FF&vCenter=true&size=22&bold=true"></a>
 </p>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lightsouldev&layout=compact&exclude_repo=old-unity-rpg&theme=apprentice)](https://github.com/lightsouldev/github-readme-stats)
+  
 <div align="center">
 <h2><b>Get in touch with me</b></h2>
 <a href="https://t.me/justpd_cg">
@@ -70,7 +73,5 @@
     <a href="https://en.cppreference.com/w/"><img alt="C/C++" src="https://img.shields.io/badge/-C%2FC%2B%2B-555?style=for-the-badge&logo=c&logoColor=A8B9CC" /></a>
     <a href="https://www.php.net"><img alt="Php" src="https://img.shields.io/badge/-PHP-555?style=for-the-badge&logo=php&logoColor=777BB4" /></a>
 </p>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lightsouldev&layout=compact&exclude_repo=old-unity-rpg&theme=apprentice)](https://github.com/lightsouldev/github-readme-stats)
-  
+ 
 </div>
