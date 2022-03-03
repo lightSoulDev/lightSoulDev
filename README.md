@@ -29,9 +29,9 @@
 <a href="mailto:lightsoul_dev@mail.ru">
     <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=lightsoul_dev@mail.ru&style=for-the-badge&logo=mail.ru&color=555&logoColor=007ACC" />
 </a>
-<a href="mailto:jp_dev@mail.ru">
+<!-- <a href="mailto:jp_dev@mail.ru">
     <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=jp_dev@mail.ru&style=for-the-badge&logo=mail.ru&color=555&logoColor=007ACC" />
-</a>
+</a> -->
 </br>
 
 <!-- [![Nurzhan's github activity graph](https://activity-graph.herokuapp.com/graph?username=lightSoulDev&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
