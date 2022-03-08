@@ -67,6 +67,8 @@
 <h2><b>Tools I actively worked within past</b></h2>
 <p>
     <a href="https://flutter.dev"><img alt="Flutter" src="https://img.shields.io/badge/-Flutter-555?style=for-the-badge&logo=flutter&logoColor=2088FF" /></a>
+    <a href="https://cordova.apache.org"><img alt="Cordova" src="https://img.shields.io/badge/-Cordova-555?style=for-the-badge&logo=apache-cordova&logoColor=ffffff" /></a>
+    <a href="https://capacitorjs.com"><img alt="Capacitor" src="https://img.shields.io/badge/-Capacitor-555?style=for-the-badge&logo=capacitor&logoColor=119EFF" /></a>
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img alt="C# .Net" src="https://img.shields.io/badge/-C%23_%2ENet-555?style=for-the-badge&logo=microsoft&logoColor=6264A7" /></a>
     <a href="https://docs.unity.com"><img alt="Unity" src="https://img.shields.io/badge/-Unity-555?style=for-the-badge&logo=unity&logoColor=2088FF" /> </a>
     <a href="https://www.lua.org/docs.html"><img alt="Lua" src="https://img.shields.io/badge/-Lua-555?style=for-the-badge&logo=lua&logoColor=2088FF" /></a>
