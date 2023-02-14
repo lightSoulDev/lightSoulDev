@@ -15,18 +15,18 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Fullstack%20developer;6%2B%20years%20of%20commercial%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=480&height=45&color=2088FF&vCenter=true&size=22&bold=true"></a>
 </p>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lightsouldev&layout=compact&exclude_repo=old-unity-rpg&theme=apprentice)](https://github.com/lightsouldev/github-readme-stats)
+<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lightsouldev&layout=compact&exclude_repo=old-unity-rpg&theme=apprentice)](https://github.com/lightsouldev/github-readme-stats) -->
   
 <div align="center">
-<h2><b>Get in touch with me</b></h2>
+<!-- <h2><b>Get in touch with me</b></h2>
 <a href="https://www.instagram.com/noorik_prajapati/">
     <img alt="link to my Instagram" src="https://img.shields.io/static/v1?label&message=@noorik_prajapati&color=555&style=for-the-badge&logo=instagram&logoColor=DC6782" />
 </a>
 <a href="mailto:nurzhan.k@lightsoul.dev">
     <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=nurzhan.k@lightsoul.dev&style=for-the-badge&logo=gmail.com&color=555&logoColor=007ACC" />
-</a>
+</a> -->
 <!-- https://www.linkedin.com/in/lightsouldev/ -->
-</br>
+<!-- </br> -->
 
 <!-- [![Nurzhan's github activity graph](https://activity-graph.herokuapp.com/graph?username=lightSoulDev&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lightSoulDev&langs_count=6&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)  -->
