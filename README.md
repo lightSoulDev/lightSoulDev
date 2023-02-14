@@ -19,9 +19,6 @@
   
 <div align="center">
 <h2><b>Get in touch with me</b></h2>
-<a href="https://t.me/justpd_cg">
-    <img alt="link to my Telegram" src="https://img.shields.io/static/v1?label&message=@justpd_cg&color=555&style=for-the-badge&logo=telegram&logoColor=26A5E4" />
-</a>
 <a href="https://www.instagram.com/noorik_prajapati/">
     <img alt="link to my Instagram" src="https://img.shields.io/static/v1?label&message=@noorik_prajapati&color=555&style=for-the-badge&logo=instagram&logoColor=DC6782" />
 </a>
