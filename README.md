@@ -25,11 +25,8 @@
 <a href="https://www.instagram.com/noorik_prajapati/">
     <img alt="link to my Instagram" src="https://img.shields.io/static/v1?label&message=@noorik_prajapati&color=555&style=for-the-badge&logo=instagram&logoColor=DC6782" />
 </a>
-<a href="mailto:lightsoul_dev@justpd.site">
-    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=lightsoul_dev@justpd.site&style=for-the-badge&logo=mail.ru&color=555&logoColor=007ACC" />
-</a>
-<a href="mailto:n.k@light-soul.dev">
-    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=n.k@light-soul.dev&style=for-the-badge&logo=mail.ru&color=555&logoColor=007ACC" />
+<a href="mailto:nurzhan.k@lightsoul.dev">
+    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=lightsoul_dev@justpd.site&style=for-the-badge&logo=gmail.com&color=555&logoColor=007ACC" />
 </a>
 <!-- https://www.linkedin.com/in/lightsouldev/ -->
 </br>
