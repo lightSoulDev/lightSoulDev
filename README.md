@@ -35,6 +35,7 @@
     <a href="https://www.typescriptlang.org/docs/"><img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-555?style=for-the-badge&logo=typescript&logoColor=007ACC" /></a>
     <a href="https://reactnative.dev/docs/getting-started"><img alt="React Native" src="https://img.shields.io/badge/-React_%2F_React_Native-555?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
     <a href="https://nodejs.org/en/docs/"><img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-555?style=for-the-badge&logo=Node.js&logoColor=13aa52" /></a>
+  </p><p>
     <a href="https://docs.python.org/3/"><img alt="Python" src="https://img.shields.io/badge/-Python-555?style=for-the-badge&logo=python&logoColor=007ACC" /></a>
     <a href="https://www.lua.org/docs.html"><img alt="Lua" src="https://img.shields.io/badge/-Lua-555?style=for-the-badge&logo=lua&logoColor=2088FF" />
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img alt="C# .Net" src="https://img.shields.io/badge/-C%23_%2ENet-555?style=for-the-badge&logo=microsoft&logoColor=6264A7" /></a>
