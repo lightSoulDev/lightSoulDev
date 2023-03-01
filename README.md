@@ -1,6 +1,4 @@
 <div align="center">
-<h1><b>Kozhanov Nurzhan</b></h1>
-<br>
   <a href="https://play.google.com/store/apps/developer?id=jp_dev">
     <img alt="Google Dev" src="https://img.shields.io/static/v1?label&message=Google%20Play&style=for-the-badge&logo=googleplay&color=555&logoColor=green" />
   </a>
