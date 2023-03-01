@@ -12,7 +12,7 @@
   </a>
 <p align="center">
   <br/>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Fullstack%20developer;6%2B%20years%20of%20commercial%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=480&height=45&color=2088FF&vCenter=true&size=22&bold=true"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Fullstack%20developer;6%2B%20years%20of%20commercial%20experience&font=Fira%20Code&center=true&width=480&height=45&color=2088FF&vCenter=true&size=22&bold=true"></a>
 </p>
   
 <!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lightsouldev&layout=compact&exclude_repo=old-unity-rpg&theme=apprentice)](https://github.com/lightsouldev/github-readme-stats) -->
