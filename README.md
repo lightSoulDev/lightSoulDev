@@ -39,6 +39,7 @@
     <a href="https://www.lua.org/docs.html"><img alt="Lua" src="https://img.shields.io/badge/-Lua-555?style=for-the-badge&logo=lua&logoColor=2088FF" />
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img alt="C# .Net" src="https://img.shields.io/badge/-C%23_%2ENet-555?style=for-the-badge&logo=microsoft&logoColor=6264A7" /></a>
     <a href="https://flutter.dev"><img alt="Flutter" src="https://img.shields.io/badge/-Flutter-555?style=for-the-badge&logo=flutter&logoColor=2088FF" />
+  </p><p>
     <a href="https://aws.amazon.com"><img alt="AWS" src="https://img.shields.io/badge/-AWS-555?style=for-the-badge&logo=amazon&logoColor=FFBF00"/>
     <a href="https://www.docker.com"><img alt="Docker" src="https://img.shields.io/badge/-Docker-555?style=for-the-badge&logo=docker&logoColor=2496ED"/>
 </p>
