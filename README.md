@@ -30,7 +30,7 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lightSoulDev&langs_count=6&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)  -->
 
 <p>
-    <a href="https://go.dev/doc/"><img alt="Go" src="https://img.shields.io/badge/-Go_lang-555?style=for-the-badge&logo=go&logoColor=007ACC" /></a>
+    <a href="https://go.dev/doc/"><img alt="Go" src="https://img.shields.io/badge/-Go-555?style=for-the-badge&logo=go&logoColor=007ACC" /></a>
     <a href="https://www.typescriptlang.org/docs/"><img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-555?style=for-the-badge&logo=typescript&logoColor=007ACC" /></a>
     <a href="https://reactnative.dev/docs/getting-started"><img alt="React Native" src="https://img.shields.io/badge/-React_%2F_React_Native-555?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
     <a href="https://nodejs.org/en/docs/"><img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-555?style=for-the-badge&logo=Node.js&logoColor=13aa52" /></a>
