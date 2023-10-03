@@ -36,4 +36,8 @@
     <a href="https://aws.amazon.com"><img alt="AWS" src="https://img.shields.io/badge/-AWS-555?style=for-the-badge&logo=amazon&logoColor=FFBF00"/>
     <a href="https://www.docker.com"><img alt="Docker" src="https://img.shields.io/badge/-Docker-555?style=for-the-badge&logo=docker&logoColor=2496ED"/>
 </p>
+
+<!-- [![Nurzhan's GitHub stats-Dark](https://github-readme-stats-xi-three-88.vercel.app/api/top-langs?username=lightsouldev&exclude_repo=justpd.github.io&hide=HLSL,CMake,Dockerfile,Makefile,Starlark,ShaderLab,HTML,CSS&langs_count=10&theme=dark#gh-dark-mode-only)](https://github.com/lightsouldev/github-readme-stats#gh-dark-mode-only)
+[![Nurzhan's GitHub stats-Light](https://github-readme-stats-xi-three-88.vercel.app/api/top-langs?username=lightsouldev&exclude_repo=justpd.github.io&hide=HLSL,CMake,Dockerfile,Makefile,Starlark,ShaderLab,HTML,CSS&langs_count=10&theme=default#gh-light-mode-only)](https://github.com/lightsouldev/github-readme-stats#gh-light-mode-only)
+-->
 </div>
