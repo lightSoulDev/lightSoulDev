@@ -25,7 +25,7 @@
     <a href="https://www.typescriptlang.org/docs/"><img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-555?style=for-the-badge&logo=typescript&logoColor=007ACC" /></a>
     <a href="https://reactnative.dev/docs/getting-started"><img alt="React Native" src="https://img.shields.io/badge/-React_%2F_Native-555?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
     <a href="https://bun.sh/docs"><img alt="Bunjs" src="https://img.shields.io/badge/-Bunjs-555?style=for-the-badge&logo=bun&logoColor=ffffff" /></a>
-    <a href="https://nodejs.org/en/docs/"><img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-555?style=for-the-badge&logo=Node.js&logoColor=13aa52" /></a>
+<!--     <a href="https://nodejs.org/en/docs/"><img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-555?style=for-the-badge&logo=Node.js&logoColor=13aa52" /></a> -->
 
   </p><p>
     <a href="https://docs.python.org/3/"><img alt="Python" src="https://img.shields.io/badge/-Python-555?style=for-the-badge&logo=python&logoColor=007ACC" /></a>
@@ -34,6 +34,8 @@
     <a href="https://flutter.dev"><img alt="Flutter" src="https://img.shields.io/badge/-Flutter-555?style=for-the-badge&logo=flutter&logoColor=2088FF" />
   </p><p>
     <a href="https://aws.amazon.com"><img alt="AWS" src="https://img.shields.io/badge/-AWS-555?style=for-the-badge&logo=amazon&logoColor=FFBF00"/>
+    <a href="https://www.elastic.co/elastic-stack"><img alt="ELK" src="https://img.shields.io/badge/-ELK-555?style=for-the-badge&logo=elastic&logoColor=d7689d"/>
+    <a href="https://www.postgresql.org"><img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-555?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
     <a href="https://www.docker.com"><img alt="Docker" src="https://img.shields.io/badge/-Docker-555?style=for-the-badge&logo=docker&logoColor=2496ED"/>
 </p>
 
